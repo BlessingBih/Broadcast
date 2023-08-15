@@ -11,4 +11,5 @@ The only language i know is sucess
 I think am beging to to understand this git and github.
 I believe its about one step at a time and i will reach there
 No matter what the goal is to undersand and teach my teams members.
-I made this branch because i want to fixed and errow
+I made this branch because i want to fixed an errow
+
