@@ -1,1 +1,2 @@
 I am working with my team to archive a goal
+I am altering this text because i want to merge and see if it would result to a merge conflict
